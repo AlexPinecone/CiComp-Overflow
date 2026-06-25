@@ -80,4 +80,4 @@ For detailed information on how to configure and run the project's test suites, 
 ---
 
 
-Link to the project: https://github.com/Ci-Comp-Overflow/ci-comp-overflow
+Link to the project: [Project](https://github.com/Ci-Comp-Overflow/ci-comp-overflow)
